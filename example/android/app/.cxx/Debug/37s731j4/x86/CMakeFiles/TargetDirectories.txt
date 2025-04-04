@@ -1,0 +1,2 @@
+/Users/niwatbuakhaio/Develop/presentation-displays/example/android/app/.cxx/Debug/37s731j4/x86/CMakeFiles/edit_cache.dir
+/Users/niwatbuakhaio/Develop/presentation-displays/example/android/app/.cxx/Debug/37s731j4/x86/CMakeFiles/rebuild_cache.dir

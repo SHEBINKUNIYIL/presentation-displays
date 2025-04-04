@@ -1,0 +1,2 @@
+/Users/niwatbuakhaio/Develop/presentation-displays/example/android/app/.cxx/Debug/37s731j4/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/niwatbuakhaio/Develop/presentation-displays/example/android/app/.cxx/Debug/37s731j4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
